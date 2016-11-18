@@ -12,3 +12,4 @@ demo https://w387b7ln71.execute-api.ap-southeast-2.amazonaws.com/prod/greeting/1
 upload swager file in deploy folder (repleace 11111111 with your aws account number)
 if you gave diffrent name for lambda function please change test-http to the correct name
 
+please contact me for any errors or requests
